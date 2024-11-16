@@ -5,7 +5,7 @@ This Contact Management System allows users to add, view, update, and delete con
 ## Features
 
 - **Add New Contact**: Allows users to add a contact with details like name, email, phone number, company, and job title.
-- **View Contacts**: Displays a list of all contacts in a table with sorting and pagination.
+- **View Contacts**: Displays a list of all contacts in a table with pagination.
 - **Edit Contact**: Users can update contact information when changes occur (e.g., phone number, job title).
 - **Delete Contact**: Users can remove outdated or duplicate contacts from the list.
   
